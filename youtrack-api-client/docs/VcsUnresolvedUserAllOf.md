@@ -1,0 +1,11 @@
+
+# VcsUnresolvedUserAllOf
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **kotlin.String** |  |  [optional] [readonly]
+**name** | **kotlin.String** |  |  [optional] [readonly]
+
+
+
